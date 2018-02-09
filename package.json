@@ -1,0 +1,18 @@
+{
+  "name": "friendfinder-final",
+  "version": "1.0.0",
+  "description": "friendfinder app works like dating app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
